@@ -1,2 +1,2 @@
 # undici-fixedsss
-undici cok hizli fln boostban fixed evtds
+herkesin cok ovdugu undici fix ovmeyin bu kadar aq ne var bunda
